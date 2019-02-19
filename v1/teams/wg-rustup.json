@@ -1,0 +1,39 @@
+{
+  "name": "wg-rustup",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": true
+    },
+    {
+      "name": "Dale Wijnand",
+      "github": "dwijnand",
+      "is_lead": true
+    },
+    {
+      "name": "Daniel Silverstone",
+      "github": "kinnison",
+      "is_lead": true
+    },
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Rustup working group",
+    "description": "design and implementation of Rustup",
+    "page": "wg-rustup",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustup",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "weight": 0
+  }
+}

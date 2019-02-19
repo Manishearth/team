@@ -1,0 +1,61 @@
+{
+  "name": "lang",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "is_lead": false
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "is_lead": false
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "is_lead": false
+    },
+    {
+      "name": "Eduard Burtescu",
+      "github": "eddyb",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "is_lead": false
+    },
+    {
+      "name": "Scott McMurray",
+      "github": "scottmcm",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Language team",
+    "description": "designing new language features",
+    "page": "lang",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

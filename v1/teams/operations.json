@@ -1,0 +1,15 @@
+{
+  "name": "operations",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [],
+  "website_data": {
+    "name": "Operations team",
+    "description": "Handling releases, bots, infra, and more.",
+    "page": "operations",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

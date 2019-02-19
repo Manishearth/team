@@ -1,0 +1,23 @@
+{
+  "name": "lang-shepherds",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Russell Johnston",
+      "github": "rpjohnst",
+      "is_lead": false
+    },
+    {
+      "name": "Scott Olson",
+      "github": "solson",
+      "is_lead": false
+    },
+    {
+      "name": "whitequark",
+      "github": "whitequark",
+      "is_lead": false
+    }
+  ],
+  "website_data": null
+}

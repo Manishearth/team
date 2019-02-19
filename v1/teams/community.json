@@ -1,0 +1,59 @@
+{
+  "name": "community",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "is_lead": true
+    },
+    {
+      "name": "Jan-Erik Rediger",
+      "github": "badboy",
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Turner",
+      "github": "jonathandturner",
+      "is_lead": false
+    },
+    {
+      "name": "Olivia Hugger",
+      "github": "komaeda",
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "manishearth",
+      "is_lead": false
+    },
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Gould",
+      "github": "technetos",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Community team",
+    "description": "Coordination and supporting events, content creation, the RustBridge program, and the survey.",
+    "page": "community",
+    "email": "community@rust-lang.org",
+    "repo": "https://github.com/rust-community/team",
+    "discord": {
+      "channel": "#community-team",
+      "url": "https://discord.gg/KskHZGT"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "crates-io",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "is_lead": true
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "is_lead": true
+    },
+    {
+      "name": "Carol Nichols",
+      "github": "carols10cents",
+      "is_lead": false
+    },
+    {
+      "name": "Tatsuyuki Ishi",
+      "github": "ishitatsuyuki",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "is_lead": false
+    },
+    {
+      "name": "Justin Geibel",
+      "github": "jtgeibel",
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Crates.io team",
+    "description": "management of operations, development, and policies for crates.io",
+    "page": "crates-io",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#crates-io",
+      "url": "https://discord.gg/Rbq8W5K"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "reference",
+  "kind": "team",
+  "subteam_of": "docs",
+  "members": [
+    {
+      "name": "Ryan Scheel",
+      "github": "Havvy",
+      "is_lead": true
+    },
+    {
+      "name": "Alexis Hunt",
+      "github": "alercah",
+      "is_lead": false
+    },
+    {
+      "name": "Matthew Jasper",
+      "github": "matthewjasper",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Reference team",
+    "description": "working on the rust reference",
+    "page": "reference",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

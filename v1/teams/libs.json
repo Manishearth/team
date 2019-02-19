@@ -1,0 +1,66 @@
+{
+  "name": "libs",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": true
+    },
+    {
+      "name": "Amanieu d'Antras",
+      "github": "Amanieu",
+      "is_lead": false
+    },
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "is_lead": false
+    },
+    {
+      "name": "Andrew Gallant",
+      "github": "BurntSushi",
+      "is_lead": false
+    },
+    {
+      "name": "David Tolnay",
+      "github": "dtolnay",
+      "is_lead": false
+    },
+    {
+      "name": "Marvin Löbel",
+      "github": "Kimundi",
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Mannix",
+      "github": "KodrAus",
+      "is_lead": false
+    },
+    {
+      "name": "Steven Fackler",
+      "github": "sfackler",
+      "is_lead": false
+    },
+    {
+      "name": "Simon Sapin",
+      "github": "SimonSapin",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Library team",
+    "description": "the Rust standard library, rust-lang crates, conventions, and ecosystem support",
+    "page": "library",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

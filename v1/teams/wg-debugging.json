@@ -1,0 +1,29 @@
+{
+  "name": "wg-debugging",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Manish Goregaokar",
+      "github": "manishearth",
+      "is_lead": true
+    },
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Debugging working group",
+    "description": "debugging tools and foundations",
+    "page": "wg-debugging",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-debugging",
+      "url": "https://discord.gg/UW3rnhd"
+    },
+    "weight": 0
+  }
+}

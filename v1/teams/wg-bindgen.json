@@ -1,0 +1,29 @@
+{
+  "name": "wg-bindgen",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Emilio Cobos Álvarez",
+      "github": "emilio",
+      "is_lead": true
+    },
+    {
+      "name": "Nick Fitzgerald",
+      "github": "fitzgen",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Bindgen working group",
+    "description": "tools for generating FFI bindings",
+    "page": "wg-bindgen",
+    "email": null,
+    "repo": "https://github.com/rust-lang-nursery/rust-bindgen",
+    "discord": {
+      "channel": "#wg-bindgen",
+      "url": "https://discord.gg/kgujzMR"
+    },
+    "weight": 0
+  }
+}

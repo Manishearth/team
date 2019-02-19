@@ -1,0 +1,59 @@
+{
+  "name": "cargo",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "is_lead": true
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": false
+    },
+    {
+      "name": "Dale Wijnand",
+      "github": "dwijnand",
+      "is_lead": false
+    },
+    {
+      "name": "Jacob Finkelman",
+      "github": "eh2406",
+      "is_lead": false
+    },
+    {
+      "name": "Eric Huss",
+      "github": "ehuss",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Triplett",
+      "github": "joshtriplett",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    },
+    {
+      "name": "Yehuda Katz",
+      "github": "wycats",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Cargo team",
+    "description": "design and implementation of Cargo",
+    "page": "cargo",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#cargo",
+      "url": "https://discord.gg/aEbd4eT"
+    },
+    "weight": 0
+  }
+}

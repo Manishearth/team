@@ -1,0 +1,29 @@
+{
+  "name": "wg-net-embedded",
+  "kind": "working_group",
+  "subteam_of": "wg-net",
+  "members": [
+    {
+      "name": "Levente Kurusa",
+      "github": "levex",
+      "is_lead": true
+    },
+    {
+      "name": "Wim",
+      "github": "Nemo157",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Embedded networking group",
+    "description": "Our goal is to support IoT development.",
+    "page": "wg-net-embedded",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-net-embedded",
+      "url": "https://discord.gg/wUQwRea"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "infra",
+  "kind": "team",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Aidan Hobson Sayers",
+      "github": "aidanhs",
+      "is_lead": true
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "is_lead": false
+    },
+    {
+      "name": "Erick Tryzelaar",
+      "github": "erickt",
+      "is_lead": false
+    },
+    {
+      "name": "kennytm",
+      "github": "kennytm",
+      "is_lead": false
+    },
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "is_lead": false
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "is_lead": false
+    },
+    {
+      "name": "Jake Goulding",
+      "github": "shepmaster",
+      "is_lead": false
+    },
+    {
+      "name": "Tim Neumann",
+      "github": "TimNN",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Infrastructure team",
+    "description": "infrastructure supporting the Rust project itself: CI, releases, bots, metrics",
+    "page": "infra",
+    "email": "infra@rust-lang.org",
+    "repo": null,
+    "discord": {
+      "channel": "#infra",
+      "url": "https://discord.gg/AxXmxzN"
+    },
+    "weight": 0
+  }
+}

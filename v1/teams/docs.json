@@ -1,0 +1,36 @@
+{
+  "name": "docs",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "is_lead": true
+    },
+    {
+      "name": "Corey Farwell",
+      "github": "frewsxcv",
+      "is_lead": false
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "is_lead": false
+    },
+    {
+      "name": "QuietMisdreavus",
+      "github": "QuietMisdreavus",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Documentation team",
+    "description": "ensuring Rust has fantastic documentation",
+    "page": "documentation",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

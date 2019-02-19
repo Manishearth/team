@@ -1,0 +1,151 @@
+{
+  "name": "wg-embedded",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Jorge Aparicio",
+      "github": "japaric",
+      "is_lead": true
+    },
+    {
+      "name": "Adam Greig",
+      "github": "adamgreig",
+      "is_lead": false
+    },
+    {
+      "name": "Andre Richter",
+      "github": "andre-richter",
+      "is_lead": false
+    },
+    {
+      "name": "awygle",
+      "github": "awygle",
+      "is_lead": false
+    },
+    {
+      "name": "Brad Campbell",
+      "github": "bradjc",
+      "is_lead": false
+    },
+    {
+      "name": "William D. Jones",
+      "github": "cr1901",
+      "is_lead": false
+    },
+    {
+      "name": "Dan Callaghan",
+      "github": "danc86",
+      "is_lead": false
+    },
+    {
+      "name": "David Craven",
+      "github": "dvc94ch",
+      "is_lead": false
+    },
+    {
+      "name": "Dylan McKay",
+      "github": "dylanmckay",
+      "is_lead": false
+    },
+    {
+      "name": "Emil Gardström",
+      "github": "Emilgardis",
+      "is_lead": false
+    },
+    {
+      "name": "Hanno Braun",
+      "github": "hannobraun",
+      "is_lead": false
+    },
+    {
+      "name": "Wilfried Chauveau",
+      "github": "ithinuel",
+      "is_lead": false
+    },
+    {
+      "name": "James Munns",
+      "github": "jamesmunns",
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Soo",
+      "github": "jcsoo",
+      "is_lead": false
+    },
+    {
+      "name": "Emil Fresk",
+      "github": "korken89",
+      "is_lead": false
+    },
+    {
+      "name": "Nick Stevens",
+      "github": "nastevens",
+      "is_lead": false
+    },
+    {
+      "name": "vaishali Thakkar",
+      "github": "nerdyvaishali",
+      "is_lead": false
+    },
+    {
+      "name": "Paolo Teti",
+      "github": "paoloteti",
+      "is_lead": false
+    },
+    {
+      "name": "James Duley",
+      "github": "parched",
+      "is_lead": false
+    },
+    {
+      "name": "Vadzim Dambrouski",
+      "github": "pftbest",
+      "is_lead": false
+    },
+    {
+      "name": "Paul Osborne",
+      "github": "posborne",
+      "is_lead": false
+    },
+    {
+      "name": "Robin Randhawa",
+      "github": "raw-bin",
+      "is_lead": false
+    },
+    {
+      "name": "Ryan",
+      "github": "ryankurte",
+      "is_lead": false
+    },
+    {
+      "name": "Hideki Sekine",
+      "github": "sekineh",
+      "is_lead": false
+    },
+    {
+      "name": "Jonathan Pallant",
+      "github": "thejpster",
+      "is_lead": false
+    },
+    {
+      "name": "Daniel Egger",
+      "github": "therealprof",
+      "is_lead": false
+    },
+    {
+      "name": "Ioannis Valasakis",
+      "github": "wizofe",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Embedded devices working group",
+    "description": "Focusing on the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms.",
+    "page": "embedded",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

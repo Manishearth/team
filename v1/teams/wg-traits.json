@@ -1,0 +1,21 @@
+{
+  "name": "wg-traits",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Traits",
+    "description": "Revamping the rustc trait implementation to follow the Chalk approach.",
+    "page": "wg-traits",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "community-content",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Aditya Arora",
+      "github": "adityac8",
+      "is_lead": false
+    },
+    {
+      "name": "Vikrant Chaudhary",
+      "github": "nasa42",
+      "is_lead": false
+    },
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "is_lead": false
+    },
+    {
+      "name": "Wesley Moore",
+      "github": "wezm",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Content team",
+    "description": "Helping support community content collection and development.",
+    "page": "community-content",
+    "email": null,
+    "repo": "https://github.com/rust-community/content-team",
+    "discord": {
+      "channel": "#content",
+      "url": "https://discord.gg/b7a22kw"
+    },
+    "weight": 0
+  }
+}

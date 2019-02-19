@@ -1,0 +1,26 @@
+{
+  "name": "wg-compiler-nll",
+  "kind": "working_group",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Non-Lexical Lifetimes (NLL)",
+    "description": "Implementing the new MIR-based borrow check and non-lexical lifetimes",
+    "page": "wg-compiler-nll",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

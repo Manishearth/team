@@ -1,0 +1,89 @@
+{
+  "name": "release",
+  "kind": "team",
+  "subteam_of": "operations",
+  "members": [
+    {
+      "name": "Mark Rousskov",
+      "github": "Mark-Simulacrum",
+      "is_lead": true
+    },
+    {
+      "name": "Aaron Power",
+      "github": "Aaronepower",
+      "is_lead": false
+    },
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": false
+    },
+    {
+      "name": "Araz Abishov",
+      "github": "ArazAbishov",
+      "is_lead": false
+    },
+    {
+      "name": "BatmanAoD",
+      "github": "BatmanAoD",
+      "is_lead": false
+    },
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Stone",
+      "github": "cuviper",
+      "is_lead": false
+    },
+    {
+      "name": "Dylan DPC",
+      "github": "Dylan-DPC",
+      "is_lead": false
+    },
+    {
+      "name": "Joseph Kordish",
+      "github": "jkordish",
+      "is_lead": false
+    },
+    {
+      "name": "Jonas Schievink",
+      "github": "jonas-schievink",
+      "is_lead": false
+    },
+    {
+      "name": "Pietro Albini",
+      "github": "pietroalbini",
+      "is_lead": false
+    },
+    {
+      "name": "Pramod Bisht",
+      "github": "PramodBisht",
+      "is_lead": false
+    },
+    {
+      "name": "Sean Griffin",
+      "github": "sgrif",
+      "is_lead": false
+    },
+    {
+      "name": "Stokhos",
+      "github": "stokhos",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Release team",
+    "description": "tracking regressions, stabilizations, and producing Rust releases",
+    "page": "release",
+    "email": "release@rust-lang.org",
+    "repo": null,
+    "discord": {
+      "channel": "#release",
+      "url": "https://discord.gg/pVTkgpv"
+    },
+    "weight": 0
+  }
+}

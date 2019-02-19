@@ -1,0 +1,2633 @@
+{
+  "all": {
+    "name": "all",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aaron Power",
+        "github": "Aaronepower",
+        "is_lead": false
+      },
+      {
+        "name": "James Miller",
+        "github": "aatch",
+        "is_lead": false
+      },
+      {
+        "name": "Aditya Arora",
+        "github": "adityac8",
+        "is_lead": false
+      },
+      {
+        "name": "Aidan Hobson Sayers",
+        "github": "aidanhs",
+        "is_lead": false
+      },
+      {
+        "name": "Alexis Hunt",
+        "github": "alercah",
+        "is_lead": false
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Alex Butler",
+        "github": "alexheretic",
+        "is_lead": false
+      },
+      {
+        "name": "Amanieu d'Antras",
+        "github": "Amanieu",
+        "is_lead": false
+      },
+      {
+        "name": "Araz Abishov",
+        "github": "ArazAbishov",
+        "is_lead": false
+      },
+      {
+        "name": "Ariel Ben-Yehuda",
+        "github": "arielb1",
+        "is_lead": false
+      },
+      {
+        "name": "Arshia Mufti",
+        "github": "arshiamufti",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Junfeng Li",
+        "github": "autozimu",
+        "is_lead": false
+      },
+      {
+        "name": "Jan-Erik Rediger",
+        "github": "badboy",
+        "is_lead": false
+      },
+      {
+        "name": "BatmanAoD",
+        "github": "BatmanAoD",
+        "is_lead": false
+      },
+      {
+        "name": "Brian Koropoff",
+        "github": "bkoropoff",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Sta Ana",
+        "github": "booyaa",
+        "is_lead": false
+      },
+      {
+        "name": "Brian Anderson",
+        "github": "brson",
+        "is_lead": false
+      },
+      {
+        "name": "Ben Striegel",
+        "github": "bstrie",
+        "is_lead": false
+      },
+      {
+        "name": "Andrew Gallant",
+        "github": "BurntSushi",
+        "is_lead": false
+      },
+      {
+        "name": "Carol Nichols",
+        "github": "carols10cents",
+        "is_lead": false
+      },
+      {
+        "name": "Claus Matzinger",
+        "github": "celaus",
+        "is_lead": false
+      },
+      {
+        "name": "Mazdak Farrokhzad",
+        "github": "Centril",
+        "is_lead": false
+      },
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Stone",
+        "github": "cuviper",
+        "is_lead": false
+      },
+      {
+        "name": "Björn Steinbrink",
+        "github": "dotdash",
+        "is_lead": false
+      },
+      {
+        "name": "David Tolnay",
+        "github": "dtolnay",
+        "is_lead": false
+      },
+      {
+        "name": "Dale Wijnand",
+        "github": "dwijnand",
+        "is_lead": false
+      },
+      {
+        "name": "Dylan DPC",
+        "github": "Dylan-DPC",
+        "is_lead": false
+      },
+      {
+        "name": "Eduard Burtescu",
+        "github": "eddyb",
+        "is_lead": false
+      },
+      {
+        "name": "E. Dunham",
+        "github": "edunham",
+        "is_lead": false
+      },
+      {
+        "name": "Jacob Finkelman",
+        "github": "eh2406",
+        "is_lead": false
+      },
+      {
+        "name": "Eric Huss",
+        "github": "ehuss",
+        "is_lead": false
+      },
+      {
+        "name": "Erick Tryzelaar",
+        "github": "erickt",
+        "is_lead": false
+      },
+      {
+        "name": "Esteban Kuber",
+        "github": "estebank",
+        "is_lead": false
+      },
+      {
+        "name": "István Szmozsánszky",
+        "github": "flaki",
+        "is_lead": false
+      },
+      {
+        "name": "Corey Farwell",
+        "github": "frewsxcv",
+        "is_lead": false
+      },
+      {
+        "name": "Alexis Beingessner",
+        "github": "Gankro",
+        "is_lead": false
+      },
+      {
+        "name": "Guillaume Gomez",
+        "github": "GuillaumeGomez",
+        "is_lead": false
+      },
+      {
+        "name": "Ryan Scheel",
+        "github": "Havvy",
+        "is_lead": false
+      },
+      {
+        "name": "Huon Wilson",
+        "github": "huonw",
+        "is_lead": false
+      },
+      {
+        "name": "Tatsuyuki Ishi",
+        "github": "ishitatsuyuki",
+        "is_lead": false
+      },
+      {
+        "name": "Jason Williams",
+        "github": "jasonwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Joseph Kordish",
+        "github": "jkordish",
+        "is_lead": false
+      },
+      {
+        "name": "Jonas Schievink",
+        "github": "jonas-schievink",
+        "is_lead": false
+      },
+      {
+        "name": "Jonathan Turner",
+        "github": "jonathandturner",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Triplett",
+        "github": "joshtriplett",
+        "is_lead": false
+      },
+      {
+        "name": "Jeffrey Seyfried",
+        "github": "jseyfried",
+        "is_lead": false
+      },
+      {
+        "name": "Justin Geibel",
+        "github": "jtgeibel",
+        "is_lead": false
+      },
+      {
+        "name": "James Turner",
+        "github": "jturner",
+        "is_lead": false
+      },
+      {
+        "name": "kennytm",
+        "github": "kennytm",
+        "is_lead": false
+      },
+      {
+        "name": "Pascal Hertleif",
+        "github": "killercup",
+        "is_lead": false
+      },
+      {
+        "name": "Marvin Löbel",
+        "github": "Kimundi",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Mannix",
+        "github": "KodrAus",
+        "is_lead": false
+      },
+      {
+        "name": "Olivia Hugger",
+        "github": "komaeda",
+        "is_lead": false
+      },
+      {
+        "name": "Andre Bogus",
+        "github": "llogiq",
+        "is_lead": false
+      },
+      {
+        "name": "Lucas Bullen",
+        "github": "LucasBullen",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Rousskov",
+        "github": "Mark-Simulacrum",
+        "is_lead": false
+      },
+      {
+        "name": "Aleksey Kladov",
+        "github": "matklad",
+        "is_lead": false
+      },
+      {
+        "name": "Matt Gathu",
+        "github": "mattgathu",
+        "is_lead": false
+      },
+      {
+        "name": "Matthew Jasper",
+        "github": "matthewjasper",
+        "is_lead": false
+      },
+      {
+        "name": "Matthieu M.",
+        "github": "matthieu-m",
+        "is_lead": false
+      },
+      {
+        "name": "Matt Brubeck",
+        "github": "mbrubeck",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Gattozzi",
+        "github": "mgattozzi",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Woerister",
+        "github": "michaelwoerister",
+        "is_lead": false
+      },
+      {
+        "name": "Simonas Kazlauskas",
+        "github": "nagisa",
+        "is_lead": false
+      },
+      {
+        "name": "Vikrant Chaudhary",
+        "github": "nasa42",
+        "is_lead": false
+      },
+      {
+        "name": "Nicolette Verlinden",
+        "github": "niconii",
+        "is_lead": false
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": false
+      },
+      {
+        "name": "Oliver Schneider",
+        "github": "oli-obk",
+        "is_lead": false
+      },
+      {
+        "name": "Oliver Middleton",
+        "github": "ollie27",
+        "is_lead": false
+      },
+      {
+        "name": "Onur Aslan",
+        "github": "onur",
+        "is_lead": false
+      },
+      {
+        "name": "Patrick Walton",
+        "github": "pcwalton",
+        "is_lead": false
+      },
+      {
+        "name": "Jeremiah Peschka",
+        "github": "peschkaj",
+        "is_lead": false
+      },
+      {
+        "name": "Vadim Petrochenkov",
+        "github": "petrochenkov",
+        "is_lead": false
+      },
+      {
+        "name": "Pietro Albini",
+        "github": "pietroalbini",
+        "is_lead": false
+      },
+      {
+        "name": "Felix Klock",
+        "github": "pnkfelix",
+        "is_lead": false
+      },
+      {
+        "name": "Pramod Bisht",
+        "github": "PramodBisht",
+        "is_lead": false
+      },
+      {
+        "name": "QuietMisdreavus",
+        "github": "QuietMisdreavus",
+        "is_lead": false
+      },
+      {
+        "name": "Russell Johnston",
+        "github": "rpjohnst",
+        "is_lead": false
+      },
+      {
+        "name": "Scott McMurray",
+        "github": "scottmcm",
+        "is_lead": false
+      },
+      {
+        "name": "Sebastián Magrí",
+        "github": "sebasmagri",
+        "is_lead": false
+      },
+      {
+        "name": "Steven Fackler",
+        "github": "sfackler",
+        "is_lead": false
+      },
+      {
+        "name": "Sean Griffin",
+        "github": "sgrif",
+        "is_lead": false
+      },
+      {
+        "name": "Jake Goulding",
+        "github": "shepmaster",
+        "is_lead": false
+      },
+      {
+        "name": "Simon Sapin",
+        "github": "SimonSapin",
+        "is_lead": false
+      },
+      {
+        "name": "Florian Gilcher",
+        "github": "skade",
+        "is_lead": false
+      },
+      {
+        "name": "Scott Olson",
+        "github": "solson",
+        "is_lead": false
+      },
+      {
+        "name": "Katharina Fey",
+        "github": "spacekookie",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      },
+      {
+        "name": "Stokhos",
+        "github": "stokhos",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Gould",
+        "github": "technetos",
+        "is_lead": false
+      },
+      {
+        "name": "Tim Neumann",
+        "github": "TimNN",
+        "is_lead": false
+      },
+      {
+        "name": "Tom Prince",
+        "github": "tomprince",
+        "is_lead": false
+      },
+      {
+        "name": "varkor",
+        "github": "varkor",
+        "is_lead": false
+      },
+      {
+        "name": "Vlad Beskrovnyy",
+        "github": "vlad20012",
+        "is_lead": false
+      },
+      {
+        "name": "Wesley Moore",
+        "github": "wezm",
+        "is_lead": false
+      },
+      {
+        "name": "whitequark",
+        "github": "whitequark",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      },
+      {
+        "name": "Yehuda Katz",
+        "github": "wycats",
+        "is_lead": false
+      },
+      {
+        "name": "Igor Matuszewski",
+        "github": "Xanewok",
+        "is_lead": false
+      },
+      {
+        "name": "Zoxc",
+        "github": "Zoxc",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "alumni": {
+    "name": "alumni",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "James Miller",
+        "github": "aatch",
+        "is_lead": false
+      },
+      {
+        "name": "Ariel Ben-Yehuda",
+        "github": "arielb1",
+        "is_lead": false
+      },
+      {
+        "name": "Brian Koropoff",
+        "github": "bkoropoff",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Sta Ana",
+        "github": "booyaa",
+        "is_lead": false
+      },
+      {
+        "name": "Brian Anderson",
+        "github": "brson",
+        "is_lead": false
+      },
+      {
+        "name": "Ben Striegel",
+        "github": "bstrie",
+        "is_lead": false
+      },
+      {
+        "name": "Björn Steinbrink",
+        "github": "dotdash",
+        "is_lead": false
+      },
+      {
+        "name": "E. Dunham",
+        "github": "edunham",
+        "is_lead": false
+      },
+      {
+        "name": "Erick Tryzelaar",
+        "github": "erickt",
+        "is_lead": false
+      },
+      {
+        "name": "Alexis Beingessner",
+        "github": "Gankro",
+        "is_lead": false
+      },
+      {
+        "name": "Huon Wilson",
+        "github": "huonw",
+        "is_lead": false
+      },
+      {
+        "name": "Jeffrey Seyfried",
+        "github": "jseyfried",
+        "is_lead": false
+      },
+      {
+        "name": "Patrick Walton",
+        "github": "pcwalton",
+        "is_lead": false
+      },
+      {
+        "name": "Jeremiah Peschka",
+        "github": "peschkaj",
+        "is_lead": false
+      },
+      {
+        "name": "Tom Prince",
+        "github": "tomprince",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Rust team alumni",
+      "description": "enjoying a leisurely retirement",
+      "page": "alumni",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": -1000
+    }
+  },
+  "cargo": {
+    "name": "cargo",
+    "kind": "team",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": true
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Dale Wijnand",
+        "github": "dwijnand",
+        "is_lead": false
+      },
+      {
+        "name": "Jacob Finkelman",
+        "github": "eh2406",
+        "is_lead": false
+      },
+      {
+        "name": "Eric Huss",
+        "github": "ehuss",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Triplett",
+        "github": "joshtriplett",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      },
+      {
+        "name": "Yehuda Katz",
+        "github": "wycats",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Cargo team",
+      "description": "design and implementation of Cargo",
+      "page": "cargo",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#cargo",
+        "url": "https://discord.gg/aEbd4eT"
+      },
+      "weight": 0
+    }
+  },
+  "clippy": {
+    "name": "clippy",
+    "kind": "team",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": true
+      },
+      {
+        "name": "Oliver Schneider",
+        "github": "oli-obk",
+        "is_lead": true
+      },
+      {
+        "name": "Pascal Hertleif",
+        "github": "killercup",
+        "is_lead": false
+      },
+      {
+        "name": "Andre Bogus",
+        "github": "llogiq",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Clippy",
+      "description": "design and implementation of the Clippy linter",
+      "page": "clippy",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#clippy",
+        "url": "https://discord.gg/vNNtpyD"
+      },
+      "weight": 0
+    }
+  },
+  "community": {
+    "name": "community",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": true
+      },
+      {
+        "name": "Jan-Erik Rediger",
+        "github": "badboy",
+        "is_lead": false
+      },
+      {
+        "name": "Jonathan Turner",
+        "github": "jonathandturner",
+        "is_lead": false
+      },
+      {
+        "name": "Olivia Hugger",
+        "github": "komaeda",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Sebastián Magrí",
+        "github": "sebasmagri",
+        "is_lead": false
+      },
+      {
+        "name": "Florian Gilcher",
+        "github": "skade",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Gould",
+        "github": "technetos",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Community team",
+      "description": "Coordination and supporting events, content creation, the RustBridge program, and the survey.",
+      "page": "community",
+      "email": "community@rust-lang.org",
+      "repo": "https://github.com/rust-community/team",
+      "discord": {
+        "channel": "#community-team",
+        "url": "https://discord.gg/KskHZGT"
+      },
+      "weight": 0
+    }
+  },
+  "community-content": {
+    "name": "community-content",
+    "kind": "team",
+    "subteam_of": "community",
+    "members": [
+      {
+        "name": "Aditya Arora",
+        "github": "adityac8",
+        "is_lead": false
+      },
+      {
+        "name": "Vikrant Chaudhary",
+        "github": "nasa42",
+        "is_lead": false
+      },
+      {
+        "name": "Florian Gilcher",
+        "github": "skade",
+        "is_lead": false
+      },
+      {
+        "name": "Wesley Moore",
+        "github": "wezm",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Content team",
+      "description": "Helping support community content collection and development.",
+      "page": "community-content",
+      "email": null,
+      "repo": "https://github.com/rust-community/content-team",
+      "discord": {
+        "channel": "#content",
+        "url": "https://discord.gg/b7a22kw"
+      },
+      "weight": 0
+    }
+  },
+  "community-events": {
+    "name": "community-events",
+    "kind": "team",
+    "subteam_of": "community",
+    "members": [
+      {
+        "name": "Florian Gilcher",
+        "github": "skade",
+        "is_lead": true
+      },
+      {
+        "name": "Jan-Erik Rediger",
+        "github": "badboy",
+        "is_lead": false
+      },
+      {
+        "name": "Claus Matzinger",
+        "github": "celaus",
+        "is_lead": false
+      },
+      {
+        "name": "István Szmozsánszky",
+        "github": "flaki",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Matt Gathu",
+        "github": "mattgathu",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Gattozzi",
+        "github": "mgattozzi",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Events team",
+      "description": "Supporting community events with knowledge and resources.",
+      "page": "community-events",
+      "email": null,
+      "repo": "https://github.com/rust-community/events-team",
+      "discord": {
+        "channel": "#events",
+        "url": "https://discord.gg/cj5HMXA"
+      },
+      "weight": 0
+    }
+  },
+  "community-rustbridge": {
+    "name": "community-rustbridge",
+    "kind": "team",
+    "subteam_of": "community",
+    "members": [
+      {
+        "name": "Olivia Hugger",
+        "github": "komaeda",
+        "is_lead": true
+      },
+      {
+        "name": "Arshia Mufti",
+        "github": "arshiamufti",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Sebastián Magrí",
+        "github": "sebasmagri",
+        "is_lead": false
+      },
+      {
+        "name": "Katharina Fey",
+        "github": "spacekookie",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Gould",
+        "github": "technetos",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "RustBridge team",
+      "description": "An inclusive educational initiative focused on bringing underrepresented groups into Rust.",
+      "page": "community-rustbridge",
+      "email": null,
+      "repo": "https://github.com/rustbridge/team",
+      "discord": {
+        "channel": "#rustbridge",
+        "url": "https://discord.gg/cj5HMXA"
+      },
+      "weight": 0
+    }
+  },
+  "community-survey": {
+    "name": "community-survey",
+    "kind": "team",
+    "subteam_of": "community",
+    "members": [
+      {
+        "name": "James Turner",
+        "github": "jturner",
+        "is_lead": true
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Gattozzi",
+        "github": "mgattozzi",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Survey team",
+      "description": "Running, analysing, and presenting the community survey.",
+      "page": "community-survey",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "compiler": {
+    "name": "compiler",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      },
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": false
+      },
+      {
+        "name": "Eduard Burtescu",
+        "github": "eddyb",
+        "is_lead": false
+      },
+      {
+        "name": "Esteban Kuber",
+        "github": "estebank",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Woerister",
+        "github": "michaelwoerister",
+        "is_lead": false
+      },
+      {
+        "name": "Simonas Kazlauskas",
+        "github": "nagisa",
+        "is_lead": false
+      },
+      {
+        "name": "Oliver Schneider",
+        "github": "oli-obk",
+        "is_lead": false
+      },
+      {
+        "name": "Vadim Petrochenkov",
+        "github": "petrochenkov",
+        "is_lead": false
+      },
+      {
+        "name": "Felix Klock",
+        "github": "pnkfelix",
+        "is_lead": false
+      },
+      {
+        "name": "varkor",
+        "github": "varkor",
+        "is_lead": false
+      },
+      {
+        "name": "Zoxc",
+        "github": "Zoxc",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Compiler team",
+      "description": "compiler internals, optimizations",
+      "page": "compiler",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "core": {
+    "name": "core",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aidan Hobson Sayers",
+        "github": "aidanhs",
+        "is_lead": false
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Carol Nichols",
+        "github": "carols10cents",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Rousskov",
+        "github": "Mark-Simulacrum",
+        "is_lead": false
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      },
+      {
+        "name": "Yehuda Katz",
+        "github": "wycats",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Core team",
+      "description": "Direction of the project, subteam leadership, cross-cutting concerns.",
+      "page": "core",
+      "email": "core@rust-lang.org",
+      "repo": null,
+      "discord": null,
+      "weight": 1000
+    }
+  },
+  "crates-io": {
+    "name": "crates-io",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": true
+      },
+      {
+        "name": "Sean Griffin",
+        "github": "sgrif",
+        "is_lead": true
+      },
+      {
+        "name": "Carol Nichols",
+        "github": "carols10cents",
+        "is_lead": false
+      },
+      {
+        "name": "Tatsuyuki Ishi",
+        "github": "ishitatsuyuki",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Triplett",
+        "github": "joshtriplett",
+        "is_lead": false
+      },
+      {
+        "name": "Justin Geibel",
+        "github": "jtgeibel",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Crates.io team",
+      "description": "management of operations, development, and policies for crates.io",
+      "page": "crates-io",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#crates-io",
+        "url": "https://discord.gg/Rbq8W5K"
+      },
+      "weight": 0
+    }
+  },
+  "devtools": {
+    "name": "devtools",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [],
+    "website_data": {
+      "name": "Dev tools team",
+      "description": "Rust developer tools",
+      "page": "dev-tools",
+      "email": null,
+      "repo": "https://github.com/rust-dev-tools/dev-tools-team",
+      "discord": {
+        "channel": "#dev-tools",
+        "url": "https://discord.gg/sG23nSS"
+      },
+      "weight": 0
+    }
+  },
+  "docs": {
+    "name": "docs",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": true
+      },
+      {
+        "name": "Corey Farwell",
+        "github": "frewsxcv",
+        "is_lead": false
+      },
+      {
+        "name": "Guillaume Gomez",
+        "github": "GuillaumeGomez",
+        "is_lead": false
+      },
+      {
+        "name": "QuietMisdreavus",
+        "github": "QuietMisdreavus",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Documentation team",
+      "description": "ensuring Rust has fantastic documentation",
+      "page": "documentation",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "ecosystem": {
+    "name": "ecosystem",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Mannix",
+        "github": "KodrAus",
+        "is_lead": false
+      },
+      {
+        "name": "Steven Fackler",
+        "github": "sfackler",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "ides": {
+    "name": "ides",
+    "kind": "team",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": true
+      },
+      {
+        "name": "Igor Matuszewski",
+        "github": "Xanewok",
+        "is_lead": true
+      },
+      {
+        "name": "Alex Butler",
+        "github": "alexheretic",
+        "is_lead": false
+      },
+      {
+        "name": "Junfeng Li",
+        "github": "autozimu",
+        "is_lead": false
+      },
+      {
+        "name": "Jason Williams",
+        "github": "jasonwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Lucas Bullen",
+        "github": "LucasBullen",
+        "is_lead": false
+      },
+      {
+        "name": "Aleksey Kladov",
+        "github": "matklad",
+        "is_lead": false
+      },
+      {
+        "name": "Vlad Beskrovnyy",
+        "github": "vlad20012",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "IDEs and editors team",
+      "description": "IDEs, editors, and supporting tools such as Racer and the RLS",
+      "page": "ides",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "infra": {
+    "name": "infra",
+    "kind": "team",
+    "subteam_of": "operations",
+    "members": [
+      {
+        "name": "Aidan Hobson Sayers",
+        "github": "aidanhs",
+        "is_lead": true
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Erick Tryzelaar",
+        "github": "erickt",
+        "is_lead": false
+      },
+      {
+        "name": "kennytm",
+        "github": "kennytm",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Rousskov",
+        "github": "Mark-Simulacrum",
+        "is_lead": false
+      },
+      {
+        "name": "Pietro Albini",
+        "github": "pietroalbini",
+        "is_lead": false
+      },
+      {
+        "name": "Sean Griffin",
+        "github": "sgrif",
+        "is_lead": false
+      },
+      {
+        "name": "Jake Goulding",
+        "github": "shepmaster",
+        "is_lead": false
+      },
+      {
+        "name": "Tim Neumann",
+        "github": "TimNN",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Infrastructure team",
+      "description": "infrastructure supporting the Rust project itself: CI, releases, bots, metrics",
+      "page": "infra",
+      "email": "infra@rust-lang.org",
+      "repo": null,
+      "discord": {
+        "channel": "#infra",
+        "url": "https://discord.gg/AxXmxzN"
+      },
+      "weight": 0
+    }
+  },
+  "lang": {
+    "name": "lang",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      },
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Mazdak Farrokhzad",
+        "github": "Centril",
+        "is_lead": false
+      },
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": false
+      },
+      {
+        "name": "Eduard Burtescu",
+        "github": "eddyb",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Triplett",
+        "github": "joshtriplett",
+        "is_lead": false
+      },
+      {
+        "name": "Felix Klock",
+        "github": "pnkfelix",
+        "is_lead": false
+      },
+      {
+        "name": "Scott McMurray",
+        "github": "scottmcm",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Language team",
+      "description": "designing new language features",
+      "page": "lang",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "lang-shepherds": {
+    "name": "lang-shepherds",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Russell Johnston",
+        "github": "rpjohnst",
+        "is_lead": false
+      },
+      {
+        "name": "Scott Olson",
+        "github": "solson",
+        "is_lead": false
+      },
+      {
+        "name": "whitequark",
+        "github": "whitequark",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "leads": {
+    "name": "leads",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aidan Hobson Sayers",
+        "github": "aidanhs",
+        "is_lead": false
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Williams",
+        "github": "ashleygwilliams",
+        "is_lead": false
+      },
+      {
+        "name": "Ryan Scheel",
+        "github": "Havvy",
+        "is_lead": false
+      },
+      {
+        "name": "James Turner",
+        "github": "jturner",
+        "is_lead": false
+      },
+      {
+        "name": "Olivia Hugger",
+        "github": "komaeda",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Mark Rousskov",
+        "github": "Mark-Simulacrum",
+        "is_lead": false
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": false
+      },
+      {
+        "name": "Oliver Schneider",
+        "github": "oli-obk",
+        "is_lead": false
+      },
+      {
+        "name": "QuietMisdreavus",
+        "github": "QuietMisdreavus",
+        "is_lead": false
+      },
+      {
+        "name": "Sean Griffin",
+        "github": "sgrif",
+        "is_lead": false
+      },
+      {
+        "name": "Florian Gilcher",
+        "github": "skade",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      },
+      {
+        "name": "Igor Matuszewski",
+        "github": "Xanewok",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "libs": {
+    "name": "libs",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": true
+      },
+      {
+        "name": "Amanieu d'Antras",
+        "github": "Amanieu",
+        "is_lead": false
+      },
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Andrew Gallant",
+        "github": "BurntSushi",
+        "is_lead": false
+      },
+      {
+        "name": "David Tolnay",
+        "github": "dtolnay",
+        "is_lead": false
+      },
+      {
+        "name": "Marvin Löbel",
+        "github": "Kimundi",
+        "is_lead": false
+      },
+      {
+        "name": "Ashley Mannix",
+        "github": "KodrAus",
+        "is_lead": false
+      },
+      {
+        "name": "Steven Fackler",
+        "github": "sfackler",
+        "is_lead": false
+      },
+      {
+        "name": "Simon Sapin",
+        "github": "SimonSapin",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Library team",
+      "description": "the Rust standard library, rust-lang crates, conventions, and ecosystem support",
+      "page": "library",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "mods": {
+    "name": "mods",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Andrew Gallant",
+        "github": "BurntSushi",
+        "is_lead": false
+      },
+      {
+        "name": "Andre Bogus",
+        "github": "llogiq",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Matthieu M.",
+        "github": "matthieu-m",
+        "is_lead": false
+      },
+      {
+        "name": "Matt Brubeck",
+        "github": "mbrubeck",
+        "is_lead": false
+      },
+      {
+        "name": "Nicolette Verlinden",
+        "github": "niconii",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Moderation team",
+      "description": "helping uphold the code of conduct",
+      "page": "moderation",
+      "email": "rust-mods@rust-lang.org",
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "operations": {
+    "name": "operations",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [],
+    "website_data": {
+      "name": "Operations team",
+      "description": "Handling releases, bots, infra, and more.",
+      "page": "operations",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "production": {
+    "name": "production",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aidan Hobson Sayers",
+        "github": "aidanhs",
+        "is_lead": true
+      },
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Claus Matzinger",
+        "github": "celaus",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "reference": {
+    "name": "reference",
+    "kind": "team",
+    "subteam_of": "docs",
+    "members": [
+      {
+        "name": "Ryan Scheel",
+        "github": "Havvy",
+        "is_lead": true
+      },
+      {
+        "name": "Alexis Hunt",
+        "github": "alercah",
+        "is_lead": false
+      },
+      {
+        "name": "Matthew Jasper",
+        "github": "matthewjasper",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Reference team",
+      "description": "working on the rust reference",
+      "page": "reference",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "release": {
+    "name": "release",
+    "kind": "team",
+    "subteam_of": "operations",
+    "members": [
+      {
+        "name": "Mark Rousskov",
+        "github": "Mark-Simulacrum",
+        "is_lead": true
+      },
+      {
+        "name": "Aaron Power",
+        "github": "Aaronepower",
+        "is_lead": false
+      },
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Araz Abishov",
+        "github": "ArazAbishov",
+        "is_lead": false
+      },
+      {
+        "name": "BatmanAoD",
+        "github": "BatmanAoD",
+        "is_lead": false
+      },
+      {
+        "name": "Mazdak Farrokhzad",
+        "github": "Centril",
+        "is_lead": false
+      },
+      {
+        "name": "Josh Stone",
+        "github": "cuviper",
+        "is_lead": false
+      },
+      {
+        "name": "Dylan DPC",
+        "github": "Dylan-DPC",
+        "is_lead": false
+      },
+      {
+        "name": "Joseph Kordish",
+        "github": "jkordish",
+        "is_lead": false
+      },
+      {
+        "name": "Jonas Schievink",
+        "github": "jonas-schievink",
+        "is_lead": false
+      },
+      {
+        "name": "Pietro Albini",
+        "github": "pietroalbini",
+        "is_lead": false
+      },
+      {
+        "name": "Pramod Bisht",
+        "github": "PramodBisht",
+        "is_lead": false
+      },
+      {
+        "name": "Sean Griffin",
+        "github": "sgrif",
+        "is_lead": false
+      },
+      {
+        "name": "Stokhos",
+        "github": "stokhos",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Release team",
+      "description": "tracking regressions, stabilizations, and producing Rust releases",
+      "page": "release",
+      "email": "release@rust-lang.org",
+      "repo": null,
+      "discord": {
+        "channel": "#release",
+        "url": "https://discord.gg/pVTkgpv"
+      },
+      "weight": 0
+    }
+  },
+  "rustdoc": {
+    "name": "rustdoc",
+    "kind": "team",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "QuietMisdreavus",
+        "github": "QuietMisdreavus",
+        "is_lead": true
+      },
+      {
+        "name": "Guillaume Gomez",
+        "github": "GuillaumeGomez",
+        "is_lead": false
+      },
+      {
+        "name": "Oliver Middleton",
+        "github": "ollie27",
+        "is_lead": false
+      },
+      {
+        "name": "Onur Aslan",
+        "github": "onur",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Rustdoc team",
+      "description": "Documentation tools including Rustdoc and docs.rs",
+      "page": "rustdoc",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#rustdoc",
+        "url": "https://discord.gg/4yEYPuT"
+      },
+      "weight": 0
+    }
+  },
+  "security": {
+    "name": "security",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": false
+      },
+      {
+        "name": "Steve Klabnik",
+        "github": "steveklabnik",
+        "is_lead": false
+      },
+      {
+        "name": "Yehuda Katz",
+        "github": "wycats",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "twir": {
+    "name": "twir",
+    "kind": "team",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Andre Bogus",
+        "github": "llogiq",
+        "is_lead": false
+      },
+      {
+        "name": "Vikrant Chaudhary",
+        "github": "nasa42",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "wg-bindgen": {
+    "name": "wg-bindgen",
+    "kind": "working_group",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Emilio Cobos Álvarez",
+        "github": "emilio",
+        "is_lead": true
+      },
+      {
+        "name": "Nick Fitzgerald",
+        "github": "fitzgen",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Bindgen working group",
+      "description": "tools for generating FFI bindings",
+      "page": "wg-bindgen",
+      "email": null,
+      "repo": "https://github.com/rust-lang-nursery/rust-bindgen",
+      "discord": {
+        "channel": "#wg-bindgen",
+        "url": "https://discord.gg/kgujzMR"
+      },
+      "weight": 0
+    }
+  },
+  "wg-cli": {
+    "name": "wg-cli",
+    "kind": "working_group",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Aaron Power",
+        "github": "Aaronepower",
+        "is_lead": false
+      },
+      {
+        "name": "Daniel Sockwell",
+        "github": "codesections",
+        "is_lead": false
+      },
+      {
+        "name": "Dylan DPC",
+        "github": "Dylan-DPC",
+        "is_lead": false
+      },
+      {
+        "name": "Ed Page",
+        "github": "epage",
+        "is_lead": false
+      },
+      {
+        "name": "Pascal Hertleif",
+        "github": "killercup",
+        "is_lead": false
+      },
+      {
+        "name": "Matthias Beyer",
+        "github": "matthiasbeyer",
+        "is_lead": false
+      },
+      {
+        "name": "Katharina Fey",
+        "github": "spacekookie",
+        "is_lead": false
+      },
+      {
+        "name": "Yoshua Wuyts",
+        "github": "yoshuawuyts",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Command-line interfaces (CLI) working group",
+      "description": "Focusing on the end-to-end experience of writing CLI apps, both large and small, in Rust.",
+      "page": "cli",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-cli",
+        "url": "https://discord.gg/BXCBYX6"
+      },
+      "weight": 0
+    }
+  },
+  "wg-codegen": {
+    "name": "wg-codegen",
+    "kind": "working_group",
+    "subteam_of": "compiler",
+    "members": [
+      {
+        "name": "Anthony Ramine",
+        "github": "nox",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Codegen",
+      "description": "Improving code generated by rustc.",
+      "page": "wg-codegen",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-compiler-nll": {
+    "name": "wg-compiler-nll",
+    "kind": "working_group",
+    "subteam_of": "compiler",
+    "members": [
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      },
+      {
+        "name": "Felix Klock",
+        "github": "pnkfelix",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Non-Lexical Lifetimes (NLL)",
+      "description": "Implementing the new MIR-based borrow check and non-lexical lifetimes",
+      "page": "wg-compiler-nll",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-compiler-performance": {
+    "name": "wg-compiler-performance",
+    "kind": "working_group",
+    "subteam_of": "compiler",
+    "members": [
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Compiler Performance",
+      "description": "Improving rustc compilation performance (build times).",
+      "page": "wg-compiler-performance",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-debugging": {
+    "name": "wg-debugging",
+    "kind": "working_group",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": true
+      },
+      {
+        "name": "Michael Woerister",
+        "github": "michaelwoerister",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Debugging working group",
+      "description": "debugging tools and foundations",
+      "page": "wg-debugging",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-debugging",
+        "url": "https://discord.gg/UW3rnhd"
+      },
+      "weight": 0
+    }
+  },
+  "wg-embedded": {
+    "name": "wg-embedded",
+    "kind": "working_group",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Jorge Aparicio",
+        "github": "japaric",
+        "is_lead": true
+      },
+      {
+        "name": "Adam Greig",
+        "github": "adamgreig",
+        "is_lead": false
+      },
+      {
+        "name": "Andre Richter",
+        "github": "andre-richter",
+        "is_lead": false
+      },
+      {
+        "name": "awygle",
+        "github": "awygle",
+        "is_lead": false
+      },
+      {
+        "name": "Brad Campbell",
+        "github": "bradjc",
+        "is_lead": false
+      },
+      {
+        "name": "William D. Jones",
+        "github": "cr1901",
+        "is_lead": false
+      },
+      {
+        "name": "Dan Callaghan",
+        "github": "danc86",
+        "is_lead": false
+      },
+      {
+        "name": "David Craven",
+        "github": "dvc94ch",
+        "is_lead": false
+      },
+      {
+        "name": "Dylan McKay",
+        "github": "dylanmckay",
+        "is_lead": false
+      },
+      {
+        "name": "Emil Gardström",
+        "github": "Emilgardis",
+        "is_lead": false
+      },
+      {
+        "name": "Hanno Braun",
+        "github": "hannobraun",
+        "is_lead": false
+      },
+      {
+        "name": "Wilfried Chauveau",
+        "github": "ithinuel",
+        "is_lead": false
+      },
+      {
+        "name": "James Munns",
+        "github": "jamesmunns",
+        "is_lead": false
+      },
+      {
+        "name": "Jonathan Soo",
+        "github": "jcsoo",
+        "is_lead": false
+      },
+      {
+        "name": "Emil Fresk",
+        "github": "korken89",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Stevens",
+        "github": "nastevens",
+        "is_lead": false
+      },
+      {
+        "name": "vaishali Thakkar",
+        "github": "nerdyvaishali",
+        "is_lead": false
+      },
+      {
+        "name": "Paolo Teti",
+        "github": "paoloteti",
+        "is_lead": false
+      },
+      {
+        "name": "James Duley",
+        "github": "parched",
+        "is_lead": false
+      },
+      {
+        "name": "Vadzim Dambrouski",
+        "github": "pftbest",
+        "is_lead": false
+      },
+      {
+        "name": "Paul Osborne",
+        "github": "posborne",
+        "is_lead": false
+      },
+      {
+        "name": "Robin Randhawa",
+        "github": "raw-bin",
+        "is_lead": false
+      },
+      {
+        "name": "Ryan",
+        "github": "ryankurte",
+        "is_lead": false
+      },
+      {
+        "name": "Hideki Sekine",
+        "github": "sekineh",
+        "is_lead": false
+      },
+      {
+        "name": "Jonathan Pallant",
+        "github": "thejpster",
+        "is_lead": false
+      },
+      {
+        "name": "Daniel Egger",
+        "github": "therealprof",
+        "is_lead": false
+      },
+      {
+        "name": "Ioannis Valasakis",
+        "github": "wizofe",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Embedded devices working group",
+      "description": "Focusing on the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms.",
+      "page": "embedded",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-grammar": {
+    "name": "wg-grammar",
+    "kind": "working_group",
+    "subteam_of": "lang",
+    "members": [
+      {
+        "name": "Mazdak Farrokhzad",
+        "github": "Centril",
+        "is_lead": true
+      },
+      {
+        "name": "Douglas Campos",
+        "github": "qmx",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Grammar",
+      "description": "Working out a the official, formal grammar for Rust and validating it against existing implementations.",
+      "page": "wg-grammar",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-leads": {
+    "name": "wg-leads",
+    "kind": "working_group",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": false
+      },
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": false
+      },
+      {
+        "name": "Diane Hosfelt",
+        "github": "avadacatavra",
+        "is_lead": false
+      },
+      {
+        "name": "Mazdak Farrokhzad",
+        "github": "Centril",
+        "is_lead": false
+      },
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": false
+      },
+      {
+        "name": "Dale Wijnand",
+        "github": "dwijnand",
+        "is_lead": false
+      },
+      {
+        "name": "Emilio Cobos Álvarez",
+        "github": "emilio",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Fitzgerald",
+        "github": "fitzgen",
+        "is_lead": false
+      },
+      {
+        "name": "Jorge Aparicio",
+        "github": "japaric",
+        "is_lead": false
+      },
+      {
+        "name": "Daniel Silverstone",
+        "github": "kinnison",
+        "is_lead": false
+      },
+      {
+        "name": "Levente Kurusa",
+        "github": "levex",
+        "is_lead": false
+      },
+      {
+        "name": "Josef Brandl",
+        "github": "MajorBreakfast",
+        "is_lead": false
+      },
+      {
+        "name": "Manish Goregaokar",
+        "github": "manishearth",
+        "is_lead": false
+      },
+      {
+        "name": "Michael Woerister",
+        "github": "michaelwoerister",
+        "is_lead": false
+      },
+      {
+        "name": "Wim",
+        "github": "Nemo157",
+        "is_lead": false
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": false
+      },
+      {
+        "name": "Anthony Ramine",
+        "github": "nox",
+        "is_lead": false
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": false
+      },
+      {
+        "name": "Felix Klock",
+        "github": "pnkfelix",
+        "is_lead": false
+      },
+      {
+        "name": "Douglas Campos",
+        "github": "qmx",
+        "is_lead": false
+      },
+      {
+        "name": "Seiichi Uchida",
+        "github": "topecongiro",
+        "is_lead": false
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": false
+      },
+      {
+        "name": "Yoshua Wuyts",
+        "github": "yoshuawuyts",
+        "is_lead": false
+      }
+    ],
+    "website_data": null
+  },
+  "wg-net": {
+    "name": "wg-net",
+    "kind": "working_group",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": true
+      },
+      {
+        "name": "Without Boats",
+        "github": "withoutboats",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Networking working group",
+      "description": "Focusing on the end-to-end experience for both sync and async networking code, in coordination with the growing ecosystem in this space.",
+      "page": "networking",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-net",
+        "url": "https://discord.gg/ueak2ds"
+      },
+      "weight": 0
+    }
+  },
+  "wg-net-async": {
+    "name": "wg-net-async",
+    "kind": "working_group",
+    "subteam_of": "wg-net",
+    "members": [
+      {
+        "name": "Taylor Cramer",
+        "github": "cramertj",
+        "is_lead": true
+      },
+      {
+        "name": "Josef Brandl",
+        "github": "MajorBreakfast",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Async foundations working group",
+      "description": "Our goal is to bring async/await onto a path to stabilization and to provide documentation for asynchronous programming.",
+      "page": "wg-net-async",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-net-async",
+        "url": "https://discord.gg/JebCvj5"
+      },
+      "weight": 0
+    }
+  },
+  "wg-net-embedded": {
+    "name": "wg-net-embedded",
+    "kind": "working_group",
+    "subteam_of": "wg-net",
+    "members": [
+      {
+        "name": "Levente Kurusa",
+        "github": "levex",
+        "is_lead": true
+      },
+      {
+        "name": "Wim",
+        "github": "Nemo157",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Embedded networking group",
+      "description": "Our goal is to support IoT development.",
+      "page": "wg-net-embedded",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-net-embedded",
+        "url": "https://discord.gg/wUQwRea"
+      },
+      "weight": 0
+    }
+  },
+  "wg-net-web": {
+    "name": "wg-net-web",
+    "kind": "working_group",
+    "subteam_of": "wg-net",
+    "members": [
+      {
+        "name": "Aaron Turon",
+        "github": "aturon",
+        "is_lead": true
+      },
+      {
+        "name": "Yoshua Wuyts",
+        "github": "yoshuawuyts",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Web foundations working group",
+      "description": "Our goal is to improve web programming in Rust.",
+      "page": "wg-net-web",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-net-web",
+        "url": "https://discord.gg/NKHgJpq"
+      },
+      "weight": 0
+    }
+  },
+  "wg-rustfmt": {
+    "name": "wg-rustfmt",
+    "kind": "working_group",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Seiichi Uchida",
+        "github": "topecongiro",
+        "is_lead": true
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": false
+      },
+      {
+        "name": "Otavio Salvador",
+        "github": "otavio",
+        "is_lead": false
+      },
+      {
+        "name": "Stéphane Campinas",
+        "github": "scampi",
+        "is_lead": false
+      }
+    ],
+    "website_data": {
+      "name": "Rustfmt working group",
+      "description": "design and implementation of Rustfmt",
+      "page": "wg-rustfmt",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-rustfmt",
+        "url": "https://discord.gg/e6Q3cvu"
+      },
+      "weight": 0
+    }
+  },
+  "wg-rustup": {
+    "name": "wg-rustup",
+    "kind": "working_group",
+    "subteam_of": "devtools",
+    "members": [
+      {
+        "name": "Alex Crichton",
+        "github": "alexcrichton",
+        "is_lead": true
+      },
+      {
+        "name": "Dale Wijnand",
+        "github": "dwijnand",
+        "is_lead": true
+      },
+      {
+        "name": "Daniel Silverstone",
+        "github": "kinnison",
+        "is_lead": true
+      },
+      {
+        "name": "Nick Cameron",
+        "github": "nrc",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Rustup working group",
+      "description": "design and implementation of Rustup",
+      "page": "wg-rustup",
+      "email": null,
+      "repo": null,
+      "discord": {
+        "channel": "#wg-rustup",
+        "url": "https://discord.gg/e6Q3cvu"
+      },
+      "weight": 0
+    }
+  },
+  "wg-traits": {
+    "name": "wg-traits",
+    "kind": "working_group",
+    "subteam_of": "compiler",
+    "members": [
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Traits",
+      "description": "Revamping the rustc trait implementation to follow the Chalk approach.",
+      "page": "wg-traits",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-unsafe-code-guidelines": {
+    "name": "wg-unsafe-code-guidelines",
+    "kind": "working_group",
+    "subteam_of": "lang",
+    "members": [
+      {
+        "name": "Diane Hosfelt",
+        "github": "avadacatavra",
+        "is_lead": true
+      },
+      {
+        "name": "Niko Matsakis",
+        "github": "nikomatsakis",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "Unsafe Code Guidelines (UCG)",
+      "description": "Working out the \"Unsafe Code Guidelines\", which define what kind of behavior unsafe code can and cannot do.",
+      "page": "wg-unsafe-code-guidelines",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  },
+  "wg-wasm": {
+    "name": "wg-wasm",
+    "kind": "working_group",
+    "subteam_of": null,
+    "members": [
+      {
+        "name": "Nick Fitzgerald",
+        "github": "fitzgen",
+        "is_lead": true
+      }
+    ],
+    "website_data": {
+      "name": "WebAssembly (WASM) working group",
+      "description": "Focusing on the end-to-end experience of embedding Rust code in JS libraries and apps via WebAssembly.",
+      "page": "wasm",
+      "email": null,
+      "repo": null,
+      "discord": null,
+      "weight": 0
+    }
+  }
+}

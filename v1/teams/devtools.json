@@ -1,0 +1,18 @@
+{
+  "name": "devtools",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [],
+  "website_data": {
+    "name": "Dev tools team",
+    "description": "Rust developer tools",
+    "page": "dev-tools",
+    "email": null,
+    "repo": "https://github.com/rust-dev-tools/dev-tools-team",
+    "discord": {
+      "channel": "#dev-tools",
+      "url": "https://discord.gg/sG23nSS"
+    },
+    "weight": 0
+  }
+}

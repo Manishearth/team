@@ -1,0 +1,56 @@
+{
+  "name": "ides",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "is_lead": true
+    },
+    {
+      "name": "Igor Matuszewski",
+      "github": "Xanewok",
+      "is_lead": true
+    },
+    {
+      "name": "Alex Butler",
+      "github": "alexheretic",
+      "is_lead": false
+    },
+    {
+      "name": "Junfeng Li",
+      "github": "autozimu",
+      "is_lead": false
+    },
+    {
+      "name": "Jason Williams",
+      "github": "jasonwilliams",
+      "is_lead": false
+    },
+    {
+      "name": "Lucas Bullen",
+      "github": "LucasBullen",
+      "is_lead": false
+    },
+    {
+      "name": "Aleksey Kladov",
+      "github": "matklad",
+      "is_lead": false
+    },
+    {
+      "name": "Vlad Beskrovnyy",
+      "github": "vlad20012",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "IDEs and editors team",
+    "description": "IDEs, editors, and supporting tools such as Racer and the RLS",
+    "page": "ides",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

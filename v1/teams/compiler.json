@@ -1,0 +1,71 @@
+{
+  "name": "compiler",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": true
+    },
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "is_lead": false
+    },
+    {
+      "name": "Eduard Burtescu",
+      "github": "eddyb",
+      "is_lead": false
+    },
+    {
+      "name": "Esteban Kuber",
+      "github": "estebank",
+      "is_lead": false
+    },
+    {
+      "name": "Michael Woerister",
+      "github": "michaelwoerister",
+      "is_lead": false
+    },
+    {
+      "name": "Simonas Kazlauskas",
+      "github": "nagisa",
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Schneider",
+      "github": "oli-obk",
+      "is_lead": false
+    },
+    {
+      "name": "Vadim Petrochenkov",
+      "github": "petrochenkov",
+      "is_lead": false
+    },
+    {
+      "name": "Felix Klock",
+      "github": "pnkfelix",
+      "is_lead": false
+    },
+    {
+      "name": "varkor",
+      "github": "varkor",
+      "is_lead": false
+    },
+    {
+      "name": "Zoxc",
+      "github": "Zoxc",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Compiler team",
+    "description": "compiler internals, optimizations",
+    "page": "compiler",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "security",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Alex Crichton",
+      "github": "alexcrichton",
+      "is_lead": false
+    },
+    {
+      "name": "Niko Matsakis",
+      "github": "nikomatsakis",
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "is_lead": false
+    },
+    {
+      "name": "Yehuda Katz",
+      "github": "wycats",
+      "is_lead": false
+    }
+  ],
+  "website_data": null
+}

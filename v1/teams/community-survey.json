@@ -1,0 +1,31 @@
+{
+  "name": "community-survey",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "James Turner",
+      "github": "jturner",
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "manishearth",
+      "is_lead": false
+    },
+    {
+      "name": "Michael Gattozzi",
+      "github": "mgattozzi",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Survey team",
+    "description": "Running, analysing, and presenting the community survey.",
+    "page": "community-survey",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

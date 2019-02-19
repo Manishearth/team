@@ -1,0 +1,39 @@
+{
+  "name": "wg-rustfmt",
+  "kind": "working_group",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Seiichi Uchida",
+      "github": "topecongiro",
+      "is_lead": true
+    },
+    {
+      "name": "Nick Cameron",
+      "github": "nrc",
+      "is_lead": false
+    },
+    {
+      "name": "Otavio Salvador",
+      "github": "otavio",
+      "is_lead": false
+    },
+    {
+      "name": "Stéphane Campinas",
+      "github": "scampi",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Rustfmt working group",
+    "description": "design and implementation of Rustfmt",
+    "page": "wg-rustfmt",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-rustfmt",
+      "url": "https://discord.gg/e6Q3cvu"
+    },
+    "weight": 0
+  }
+}

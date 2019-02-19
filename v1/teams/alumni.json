@@ -1,0 +1,91 @@
+{
+  "name": "alumni",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "James Miller",
+      "github": "aatch",
+      "is_lead": false
+    },
+    {
+      "name": "Ariel Ben-Yehuda",
+      "github": "arielb1",
+      "is_lead": false
+    },
+    {
+      "name": "Brian Koropoff",
+      "github": "bkoropoff",
+      "is_lead": false
+    },
+    {
+      "name": "Mark Sta Ana",
+      "github": "booyaa",
+      "is_lead": false
+    },
+    {
+      "name": "Brian Anderson",
+      "github": "brson",
+      "is_lead": false
+    },
+    {
+      "name": "Ben Striegel",
+      "github": "bstrie",
+      "is_lead": false
+    },
+    {
+      "name": "Björn Steinbrink",
+      "github": "dotdash",
+      "is_lead": false
+    },
+    {
+      "name": "E. Dunham",
+      "github": "edunham",
+      "is_lead": false
+    },
+    {
+      "name": "Erick Tryzelaar",
+      "github": "erickt",
+      "is_lead": false
+    },
+    {
+      "name": "Alexis Beingessner",
+      "github": "Gankro",
+      "is_lead": false
+    },
+    {
+      "name": "Huon Wilson",
+      "github": "huonw",
+      "is_lead": false
+    },
+    {
+      "name": "Jeffrey Seyfried",
+      "github": "jseyfried",
+      "is_lead": false
+    },
+    {
+      "name": "Patrick Walton",
+      "github": "pcwalton",
+      "is_lead": false
+    },
+    {
+      "name": "Jeremiah Peschka",
+      "github": "peschkaj",
+      "is_lead": false
+    },
+    {
+      "name": "Tom Prince",
+      "github": "tomprince",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Rust team alumni",
+    "description": "enjoying a leisurely retirement",
+    "page": "alumni",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": -1000
+  }
+}

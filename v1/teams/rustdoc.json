@@ -1,0 +1,44 @@
+{
+  "name": "rustdoc",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "QuietMisdreavus",
+      "github": "QuietMisdreavus",
+      "is_lead": true
+    },
+    {
+      "name": "Guillaume Gomez",
+      "github": "GuillaumeGomez",
+      "is_lead": false
+    },
+    {
+      "name": "Oliver Middleton",
+      "github": "ollie27",
+      "is_lead": false
+    },
+    {
+      "name": "Onur Aslan",
+      "github": "onur",
+      "is_lead": false
+    },
+    {
+      "name": "Steve Klabnik",
+      "github": "steveklabnik",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Rustdoc team",
+    "description": "Documentation tools including Rustdoc and docs.rs",
+    "page": "rustdoc",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#rustdoc",
+      "url": "https://discord.gg/4yEYPuT"
+    },
+    "weight": 0
+  }
+}

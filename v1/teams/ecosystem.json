@@ -1,0 +1,28 @@
+{
+  "name": "ecosystem",
+  "kind": "team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Aaron Turon",
+      "github": "aturon",
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Mannix",
+      "github": "KodrAus",
+      "is_lead": false
+    },
+    {
+      "name": "Steven Fackler",
+      "github": "sfackler",
+      "is_lead": false
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": false
+    }
+  ],
+  "website_data": null
+}

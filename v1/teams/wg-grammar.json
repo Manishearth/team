@@ -1,0 +1,26 @@
+{
+  "name": "wg-grammar",
+  "kind": "working_group",
+  "subteam_of": "lang",
+  "members": [
+    {
+      "name": "Mazdak Farrokhzad",
+      "github": "Centril",
+      "is_lead": true
+    },
+    {
+      "name": "Douglas Campos",
+      "github": "qmx",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Grammar",
+    "description": "Working out a the official, formal grammar for Rust and validating it against existing implementations.",
+    "page": "wg-grammar",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}

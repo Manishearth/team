@@ -1,0 +1,54 @@
+{
+  "name": "community-events",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Florian Gilcher",
+      "github": "skade",
+      "is_lead": true
+    },
+    {
+      "name": "Jan-Erik Rediger",
+      "github": "badboy",
+      "is_lead": false
+    },
+    {
+      "name": "Claus Matzinger",
+      "github": "celaus",
+      "is_lead": false
+    },
+    {
+      "name": "István Szmozsánszky",
+      "github": "flaki",
+      "is_lead": false
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "manishearth",
+      "is_lead": false
+    },
+    {
+      "name": "Matt Gathu",
+      "github": "mattgathu",
+      "is_lead": false
+    },
+    {
+      "name": "Michael Gattozzi",
+      "github": "mgattozzi",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "Events team",
+    "description": "Supporting community events with knowledge and resources.",
+    "page": "community-events",
+    "email": null,
+    "repo": "https://github.com/rust-community/events-team",
+    "discord": {
+      "channel": "#events",
+      "url": "https://discord.gg/cj5HMXA"
+    },
+    "weight": 0
+  }
+}

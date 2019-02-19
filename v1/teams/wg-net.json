@@ -1,0 +1,29 @@
+{
+  "name": "wg-net",
+  "kind": "working_group",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Taylor Cramer",
+      "github": "cramertj",
+      "is_lead": true
+    },
+    {
+      "name": "Without Boats",
+      "github": "withoutboats",
+      "is_lead": true
+    }
+  ],
+  "website_data": {
+    "name": "Networking working group",
+    "description": "Focusing on the end-to-end experience for both sync and async networking code, in coordination with the growing ecosystem in this space.",
+    "page": "networking",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#wg-net",
+      "url": "https://discord.gg/ueak2ds"
+    },
+    "weight": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "community-rustbridge",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Olivia Hugger",
+      "github": "komaeda",
+      "is_lead": true
+    },
+    {
+      "name": "Arshia Mufti",
+      "github": "arshiamufti",
+      "is_lead": false
+    },
+    {
+      "name": "Ashley Williams",
+      "github": "ashleygwilliams",
+      "is_lead": false
+    },
+    {
+      "name": "Sebastián Magrí",
+      "github": "sebasmagri",
+      "is_lead": false
+    },
+    {
+      "name": "Katharina Fey",
+      "github": "spacekookie",
+      "is_lead": false
+    },
+    {
+      "name": "Josh Gould",
+      "github": "technetos",
+      "is_lead": false
+    }
+  ],
+  "website_data": {
+    "name": "RustBridge team",
+    "description": "An inclusive educational initiative focused on bringing underrepresented groups into Rust.",
+    "page": "community-rustbridge",
+    "email": null,
+    "repo": "https://github.com/rustbridge/team",
+    "discord": {
+      "channel": "#rustbridge",
+      "url": "https://discord.gg/cj5HMXA"
+    },
+    "weight": 0
+  }
+}
